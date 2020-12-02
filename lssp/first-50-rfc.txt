@@ -1,0 +1,668 @@
+RFC0001
+  rfc.title        | RFC0001 | Host Software
+  rfc.draft        | RFC0001 | None
+  rfc.date         | RFC0001 | April 1969
+  rfc.stream       | RFC0001 | Legacy
+  rfc.wg           | RFC0001 | None
+  rfc.area         | RFC0001 | None
+  rfc.publ_status  | RFC0001 | UNKNOWN
+  rfc.curr_status  | RFC0001 | UNKNOWN
+  rfc.april_fool   | RFC0001 | False
+  rfc.page_count   | RFC0001 | 11
+  rfc.author       | RFC0001 | S. Crocker
+   dt.author       | RFC0001 | 107476 | Steve Crocker
+RFC0002
+  rfc.title        | RFC0002 | Host software
+  rfc.draft        | RFC0002 | None
+  rfc.date         | RFC0002 | April 1969
+  rfc.stream       | RFC0002 | Legacy
+  rfc.wg           | RFC0002 | None
+  rfc.area         | RFC0002 | None
+  rfc.publ_status  | RFC0002 | UNKNOWN
+  rfc.curr_status  | RFC0002 | UNKNOWN
+  rfc.april_fool   | RFC0002 | False
+  rfc.page_count   | RFC0002 | 10
+  rfc.author       | RFC0002 | B. Duvall
+RFC0003
+  rfc.title        | RFC0003 | Documentation conventions
+  rfc.draft        | RFC0003 | None
+  rfc.date         | RFC0003 | April 1969
+  rfc.stream       | RFC0003 | Legacy
+  rfc.wg           | RFC0003 | None
+  rfc.area         | RFC0003 | None
+  rfc.publ_status  | RFC0003 | UNKNOWN
+  rfc.curr_status  | RFC0003 | UNKNOWN
+  rfc.april_fool   | RFC0003 | False
+  rfc.page_count   | RFC0003 | 2
+  rfc.obsoleted-by | RFC0003 | RFC0010
+  rfc.author       | RFC0003 | S.D. Crocker
+   dt.author       | RFC0003 | 107476 | Steve Crocker
+RFC0004
+  rfc.title        | RFC0004 | Network timetable
+  rfc.draft        | RFC0004 | None
+  rfc.date         | RFC0004 | March 1969
+  rfc.stream       | RFC0004 | Legacy
+  rfc.wg           | RFC0004 | None
+  rfc.area         | RFC0004 | None
+  rfc.publ_status  | RFC0004 | UNKNOWN
+  rfc.curr_status  | RFC0004 | UNKNOWN
+  rfc.april_fool   | RFC0004 | False
+  rfc.page_count   | RFC0004 | 6
+  rfc.author       | RFC0004 | E.B. Shapiro
+RFC0005
+  rfc.title        | RFC0005 | Decode Encode Language (DEL)
+  rfc.draft        | RFC0005 | None
+  rfc.date         | RFC0005 | June 1969
+  rfc.stream       | RFC0005 | Legacy
+  rfc.wg           | RFC0005 | None
+  rfc.area         | RFC0005 | None
+  rfc.publ_status  | RFC0005 | UNKNOWN
+  rfc.curr_status  | RFC0005 | UNKNOWN
+  rfc.april_fool   | RFC0005 | False
+  rfc.page_count   | RFC0005 | 17
+  rfc.author       | RFC0005 | J. Rulifson
+RFC0006
+  rfc.title        | RFC0006 | Conversation with Bob Kahn
+  rfc.draft        | RFC0006 | None
+  rfc.date         | RFC0006 | April 1969
+  rfc.stream       | RFC0006 | Legacy
+  rfc.wg           | RFC0006 | None
+  rfc.area         | RFC0006 | None
+  rfc.publ_status  | RFC0006 | UNKNOWN
+  rfc.curr_status  | RFC0006 | UNKNOWN
+  rfc.april_fool   | RFC0006 | False
+  rfc.page_count   | RFC0006 | 1
+  rfc.author       | RFC0006 | S.D. Crocker
+   dt.author       | RFC0006 | 107476 | Steve Crocker
+RFC0007
+  rfc.title        | RFC0007 | Host-IMP interface
+  rfc.draft        | RFC0007 | None
+  rfc.date         | RFC0007 | May 1969
+  rfc.stream       | RFC0007 | Legacy
+  rfc.wg           | RFC0007 | None
+  rfc.area         | RFC0007 | None
+  rfc.publ_status  | RFC0007 | UNKNOWN
+  rfc.curr_status  | RFC0007 | UNKNOWN
+  rfc.april_fool   | RFC0007 | False
+  rfc.page_count   | RFC0007 | 7
+  rfc.author       | RFC0007 | G. Deloche
+RFC0008
+  rfc.title        | RFC0008 | ARPA Network Functional Specifications
+  rfc.draft        | RFC0008 | None
+  rfc.date         | RFC0008 | May 1969
+  rfc.stream       | RFC0008 | Legacy
+  rfc.wg           | RFC0008 | None
+  rfc.area         | RFC0008 | None
+  rfc.publ_status  | RFC0008 | UNKNOWN
+  rfc.curr_status  | RFC0008 | UNKNOWN
+  rfc.april_fool   | RFC0008 | False
+  rfc.page_count   | RFC0008 | 0
+  rfc.author       | RFC0008 | G. Deloche
+RFC0009
+  rfc.title        | RFC0009 | Host Software
+  rfc.draft        | RFC0009 | None
+  rfc.date         | RFC0009 | May 1969
+  rfc.stream       | RFC0009 | Legacy
+  rfc.wg           | RFC0009 | None
+  rfc.area         | RFC0009 | None
+  rfc.publ_status  | RFC0009 | UNKNOWN
+  rfc.curr_status  | RFC0009 | UNKNOWN
+  rfc.april_fool   | RFC0009 | False
+  rfc.page_count   | RFC0009 | 15
+  rfc.author       | RFC0009 | G. Deloche
+RFC0010
+  rfc.title        | RFC0010 | Documentation conventions
+  rfc.draft        | RFC0010 | None
+  rfc.date         | RFC0010 | July 1969
+  rfc.stream       | RFC0010 | Legacy
+  rfc.wg           | RFC0010 | None
+  rfc.area         | RFC0010 | None
+  rfc.publ_status  | RFC0010 | UNKNOWN
+  rfc.curr_status  | RFC0010 | UNKNOWN
+  rfc.april_fool   | RFC0010 | False
+  rfc.page_count   | RFC0010 | 3
+  rfc.updated-by   | RFC0010 | RFC0024
+  rfc.updated-by   | RFC0010 | RFC0027
+  rfc.updated-by   | RFC0010 | RFC0030
+  rfc.obsoletes    | RFC0010 | RFC0003
+  rfc.obsoleted-by | RFC0010 | RFC0016
+  rfc.author       | RFC0010 | S.D. Crocker
+   dt.author       | RFC0010 | 107476 | Steve Crocker
+RFC0011
+  rfc.title        | RFC0011 | Implementation of the Host - Host Software Procedures in GORDO
+  rfc.draft        | RFC0011 | None
+  rfc.date         | RFC0011 | August 1969
+  rfc.stream       | RFC0011 | Legacy
+  rfc.wg           | RFC0011 | None
+  rfc.area         | RFC0011 | None
+  rfc.publ_status  | RFC0011 | UNKNOWN
+  rfc.curr_status  | RFC0011 | UNKNOWN
+  rfc.april_fool   | RFC0011 | False
+  rfc.page_count   | RFC0011 | 23
+  rfc.obsoleted-by | RFC0011 | RFC0033
+  rfc.author       | RFC0011 | G. Deloche
+RFC0012
+  rfc.title        | RFC0012 | IMP-Host interface flow diagrams
+  rfc.draft        | RFC0012 | None
+  rfc.date         | RFC0012 | August 1969
+  rfc.stream       | RFC0012 | Legacy
+  rfc.wg           | RFC0012 | None
+  rfc.area         | RFC0012 | None
+  rfc.publ_status  | RFC0012 | UNKNOWN
+  rfc.curr_status  | RFC0012 | UNKNOWN
+  rfc.april_fool   | RFC0012 | False
+  rfc.page_count   | RFC0012 | 1
+  rfc.author       | RFC0012 | M. Wingfield
+RFC0013
+  rfc.title        | RFC0013 | Zero Text Length EOF Message
+  rfc.draft        | RFC0013 | None
+  rfc.date         | RFC0013 | August 1969
+  rfc.stream       | RFC0013 | Legacy
+  rfc.wg           | RFC0013 | None
+  rfc.area         | RFC0013 | None
+  rfc.publ_status  | RFC0013 | UNKNOWN
+  rfc.curr_status  | RFC0013 | UNKNOWN
+  rfc.april_fool   | RFC0013 | False
+  rfc.page_count   | RFC0013 | 1
+  rfc.author       | RFC0013 | V. Cerf
+RFC0015
+  rfc.title        | RFC0015 | Network subsystem for time sharing hosts
+  rfc.draft        | RFC0015 | None
+  rfc.date         | RFC0015 | September 1969
+  rfc.stream       | RFC0015 | Legacy
+  rfc.wg           | RFC0015 | None
+  rfc.area         | RFC0015 | None
+  rfc.publ_status  | RFC0015 | UNKNOWN
+  rfc.curr_status  | RFC0015 | UNKNOWN
+  rfc.april_fool   | RFC0015 | False
+  rfc.page_count   | RFC0015 | 5
+  rfc.author       | RFC0015 | C.S. Carr
+RFC0016
+  rfc.title        | RFC0016 | M.I.T
+  rfc.draft        | RFC0016 | None
+  rfc.date         | RFC0016 | August 1969
+  rfc.stream       | RFC0016 | Legacy
+  rfc.wg           | RFC0016 | None
+  rfc.area         | RFC0016 | None
+  rfc.publ_status  | RFC0016 | UNKNOWN
+  rfc.curr_status  | RFC0016 | UNKNOWN
+  rfc.april_fool   | RFC0016 | False
+  rfc.page_count   | RFC0016 | 1
+  rfc.updated-by   | RFC0016 | RFC0024
+  rfc.updated-by   | RFC0016 | RFC0027
+  rfc.updated-by   | RFC0016 | RFC0030
+  rfc.obsoletes    | RFC0016 | RFC0010
+  rfc.obsoleted-by | RFC0016 | RFC0024
+  rfc.author       | RFC0016 | S. Crocker
+   dt.author       | RFC0016 | 107476 | Steve Crocker
+RFC0017
+  rfc.title        | RFC0017 | Some questions re: Host-IMP Protocol
+  rfc.draft        | RFC0017 | None
+  rfc.date         | RFC0017 | August 1969
+  rfc.stream       | RFC0017 | Legacy
+  rfc.wg           | RFC0017 | None
+  rfc.area         | RFC0017 | None
+  rfc.publ_status  | RFC0017 | UNKNOWN
+  rfc.curr_status  | RFC0017 | UNKNOWN
+  rfc.april_fool   | RFC0017 | False
+  rfc.page_count   | RFC0017 | 4
+  rfc.author       | RFC0017 | J.E. Kreznar
+RFC0018
+  rfc.title        | RFC0018 | IMP-IMP and HOST-HOST Control Links
+  rfc.draft        | RFC0018 | None
+  rfc.date         | RFC0018 | September 1969
+  rfc.stream       | RFC0018 | Legacy
+  rfc.wg           | RFC0018 | None
+  rfc.area         | RFC0018 | None
+  rfc.publ_status  | RFC0018 | UNKNOWN
+  rfc.curr_status  | RFC0018 | UNKNOWN
+  rfc.april_fool   | RFC0018 | False
+  rfc.page_count   | RFC0018 | 1
+  rfc.author       | RFC0018 | V. Cerf
+RFC0019
+  rfc.title        | RFC0019 | Two protocol suggestions to reduce congestion at swap bound nodes
+  rfc.draft        | RFC0019 | None
+  rfc.date         | RFC0019 | October 1969
+  rfc.stream       | RFC0019 | Legacy
+  rfc.wg           | RFC0019 | None
+  rfc.area         | RFC0019 | None
+  rfc.publ_status  | RFC0019 | UNKNOWN
+  rfc.curr_status  | RFC0019 | UNKNOWN
+  rfc.april_fool   | RFC0019 | False
+  rfc.page_count   | RFC0019 | 2
+  rfc.author       | RFC0019 | J.E. Kreznar
+RFC0020
+  rfc.title        | RFC0020 | ASCII format for network interchange
+  rfc.draft        | RFC0020 | None
+  rfc.date         | RFC0020 | October 1969
+  rfc.stream       | RFC0020 | Legacy
+  rfc.wg           | RFC0020 | None
+  rfc.area         | RFC0020 | None
+  rfc.publ_status  | RFC0020 | UNKNOWN
+  rfc.curr_status  | RFC0020 | INTERNET STANDARD
+  rfc.april_fool   | RFC0020 | False
+  rfc.page_count   | RFC0020 | 9
+  rfc.author       | RFC0020 | V.G. Cerf
+RFC0021
+  rfc.title        | RFC0021 | Network meeting
+  rfc.draft        | RFC0021 | None
+  rfc.date         | RFC0021 | October 1969
+  rfc.stream       | RFC0021 | Legacy
+  rfc.wg           | RFC0021 | None
+  rfc.area         | RFC0021 | None
+  rfc.publ_status  | RFC0021 | UNKNOWN
+  rfc.curr_status  | RFC0021 | UNKNOWN
+  rfc.april_fool   | RFC0021 | False
+  rfc.page_count   | RFC0021 | 2
+  rfc.author       | RFC0021 | V.G. Cerf
+RFC0022
+  rfc.title        | RFC0022 | Host-host control message formats
+  rfc.draft        | RFC0022 | None
+  rfc.date         | RFC0022 | October 1969
+  rfc.stream       | RFC0022 | Legacy
+  rfc.wg           | RFC0022 | None
+  rfc.area         | RFC0022 | None
+  rfc.publ_status  | RFC0022 | UNKNOWN
+  rfc.curr_status  | RFC0022 | UNKNOWN
+  rfc.april_fool   | RFC0022 | False
+  rfc.page_count   | RFC0022 | 2
+  rfc.author       | RFC0022 | V.G. Cerf
+RFC0023
+  rfc.title        | RFC0023 | Transmission of Multiple Control Messages
+  rfc.draft        | RFC0023 | None
+  rfc.date         | RFC0023 | October 1969
+  rfc.stream       | RFC0023 | Legacy
+  rfc.wg           | RFC0023 | None
+  rfc.area         | RFC0023 | None
+  rfc.publ_status  | RFC0023 | UNKNOWN
+  rfc.curr_status  | RFC0023 | UNKNOWN
+  rfc.april_fool   | RFC0023 | False
+  rfc.page_count   | RFC0023 | 1
+  rfc.author       | RFC0023 | G. Gregg
+RFC0024
+  rfc.title        | RFC0024 | Documentation Conventions
+  rfc.draft        | RFC0024 | None
+  rfc.date         | RFC0024 | November 1969
+  rfc.stream       | RFC0024 | Legacy
+  rfc.wg           | RFC0024 | None
+  rfc.area         | RFC0024 | None
+  rfc.publ_status  | RFC0024 | UNKNOWN
+  rfc.curr_status  | RFC0024 | UNKNOWN
+  rfc.april_fool   | RFC0024 | False
+  rfc.page_count   | RFC0024 | 3
+  rfc.updates      | RFC0024 | RFC0010
+  rfc.updates      | RFC0024 | RFC0016
+  rfc.updated-by   | RFC0024 | RFC0027
+  rfc.updated-by   | RFC0024 | RFC0030
+  rfc.obsoletes    | RFC0024 | RFC0016
+  rfc.author       | RFC0024 | S.D. Crocker
+   dt.author       | RFC0024 | 107476 | Steve Crocker
+RFC0025
+  rfc.title        | RFC0025 | No High Link Numbers
+  rfc.draft        | RFC0025 | None
+  rfc.date         | RFC0025 | October 1969
+  rfc.stream       | RFC0025 | Legacy
+  rfc.wg           | RFC0025 | None
+  rfc.area         | RFC0025 | None
+  rfc.publ_status  | RFC0025 | UNKNOWN
+  rfc.curr_status  | RFC0025 | UNKNOWN
+  rfc.april_fool   | RFC0025 | False
+  rfc.page_count   | RFC0025 | 1
+  rfc.author       | RFC0025 | S.D. Crocker
+   dt.author       | RFC0025 | 107476 | Steve Crocker
+RFC0027
+  rfc.title        | RFC0027 | Documentation Conventions
+  rfc.draft        | RFC0027 | None
+  rfc.date         | RFC0027 | December 1969
+  rfc.stream       | RFC0027 | Legacy
+  rfc.wg           | RFC0027 | None
+  rfc.area         | RFC0027 | None
+  rfc.publ_status  | RFC0027 | UNKNOWN
+  rfc.curr_status  | RFC0027 | UNKNOWN
+  rfc.april_fool   | RFC0027 | False
+  rfc.page_count   | RFC0027 | 3
+  rfc.updates      | RFC0027 | RFC0010
+  rfc.updates      | RFC0027 | RFC0016
+  rfc.updates      | RFC0027 | RFC0024
+  rfc.updated-by   | RFC0027 | RFC0030
+  rfc.author       | RFC0027 | S.D. Crocker
+   dt.author       | RFC0027 | 107476 | Steve Crocker
+RFC0028
+  rfc.title        | RFC0028 | Time Standards
+  rfc.draft        | RFC0028 | None
+  rfc.date         | RFC0028 | January 1970
+  rfc.stream       | RFC0028 | Legacy
+  rfc.wg           | RFC0028 | None
+  rfc.area         | RFC0028 | None
+  rfc.publ_status  | RFC0028 | UNKNOWN
+  rfc.curr_status  | RFC0028 | UNKNOWN
+  rfc.april_fool   | RFC0028 | False
+  rfc.page_count   | RFC0028 | 1
+  rfc.author       | RFC0028 | W.K. English
+RFC0029
+  rfc.title        | RFC0029 | Response to RFC 28
+  rfc.draft        | RFC0029 | None
+  rfc.date         | RFC0029 | January 1970
+  rfc.stream       | RFC0029 | Legacy
+  rfc.wg           | RFC0029 | None
+  rfc.area         | RFC0029 | None
+  rfc.publ_status  | RFC0029 | UNKNOWN
+  rfc.curr_status  | RFC0029 | UNKNOWN
+  rfc.april_fool   | RFC0029 | False
+  rfc.page_count   | RFC0029 | 1
+  rfc.author       | RFC0029 | R.E. Kahn
+   dt.author       | RFC0029 | 113668 | Robert E. Kahn
+RFC0030
+  rfc.title        | RFC0030 | Documentation Conventions
+  rfc.draft        | RFC0030 | None
+  rfc.date         | RFC0030 | February 1970
+  rfc.stream       | RFC0030 | Legacy
+  rfc.wg           | RFC0030 | None
+  rfc.area         | RFC0030 | None
+  rfc.publ_status  | RFC0030 | UNKNOWN
+  rfc.curr_status  | RFC0030 | UNKNOWN
+  rfc.april_fool   | RFC0030 | False
+  rfc.page_count   | RFC0030 | 3
+  rfc.updates      | RFC0030 | RFC0010
+  rfc.updates      | RFC0030 | RFC0016
+  rfc.updates      | RFC0030 | RFC0024
+  rfc.updates      | RFC0030 | RFC0027
+  rfc.author       | RFC0030 | S.D. Crocker
+   dt.author       | RFC0030 | 107476 | Steve Crocker
+RFC0032
+  rfc.title        | RFC0032 | Some Thoughts on SRI's Proposed Real Time Clock
+  rfc.draft        | RFC0032 | None
+  rfc.date         | RFC0032 | February 1970
+  rfc.stream       | RFC0032 | Legacy
+  rfc.wg           | RFC0032 | None
+  rfc.area         | RFC0032 | None
+  rfc.publ_status  | RFC0032 | UNKNOWN
+  rfc.curr_status  | RFC0032 | UNKNOWN
+  rfc.april_fool   | RFC0032 | False
+  rfc.page_count   | RFC0032 | 1
+  rfc.author       | RFC0032 | J. Cole
+   dt.author       | RFC0032 | 124994 | James Cole
+RFC0033
+  rfc.title        | RFC0033 | New Host-Host Protocol
+  rfc.draft        | RFC0033 | None
+  rfc.date         | RFC0033 | February 1970
+  rfc.stream       | RFC0033 | Legacy
+  rfc.wg           | RFC0033 | None
+  rfc.area         | RFC0033 | None
+  rfc.publ_status  | RFC0033 | UNKNOWN
+  rfc.curr_status  | RFC0033 | UNKNOWN
+  rfc.april_fool   | RFC0033 | False
+  rfc.page_count   | RFC0033 | 19
+  rfc.updated-by   | RFC0033 | RFC0036
+  rfc.updated-by   | RFC0033 | RFC0047
+  rfc.obsoletes    | RFC0033 | RFC0011
+  rfc.author       | RFC0033 | S.D. Crocker
+   dt.author       | RFC0033 | 107476 | Steve Crocker
+RFC0034
+  rfc.title        | RFC0034 | Some Brief Preliminary Notes on the Augmentation Research Center Clock
+  rfc.draft        | RFC0034 | None
+  rfc.date         | RFC0034 | February 1970
+  rfc.stream       | RFC0034 | Legacy
+  rfc.wg           | RFC0034 | None
+  rfc.area         | RFC0034 | None
+  rfc.publ_status  | RFC0034 | UNKNOWN
+  rfc.curr_status  | RFC0034 | UNKNOWN
+  rfc.april_fool   | RFC0034 | False
+  rfc.page_count   | RFC0034 | 2
+  rfc.author       | RFC0034 | W.K. English
+RFC0035
+  rfc.title        | RFC0035 | Network Meeting
+  rfc.draft        | RFC0035 | None
+  rfc.date         | RFC0035 | March 1970
+  rfc.stream       | RFC0035 | Legacy
+  rfc.wg           | RFC0035 | None
+  rfc.area         | RFC0035 | None
+  rfc.publ_status  | RFC0035 | INFORMATIONAL
+  rfc.curr_status  | RFC0035 | INFORMATIONAL
+  rfc.april_fool   | RFC0035 | False
+  rfc.page_count   | RFC0035 | 1
+  rfc.author       | RFC0035 | S.D. Crocker
+   dt.author       | RFC0035 | 107476 | Steve Crocker
+RFC0036
+  rfc.title        | RFC0036 | Protocol Notes
+  rfc.draft        | RFC0036 | None
+  rfc.date         | RFC0036 | March 1970
+  rfc.stream       | RFC0036 | Legacy
+  rfc.wg           | RFC0036 | None
+  rfc.area         | RFC0036 | None
+  rfc.publ_status  | RFC0036 | UNKNOWN
+  rfc.curr_status  | RFC0036 | UNKNOWN
+  rfc.april_fool   | RFC0036 | False
+  rfc.page_count   | RFC0036 | 8
+  rfc.updates      | RFC0036 | RFC0033
+  rfc.updated-by   | RFC0036 | RFC0039
+  rfc.updated-by   | RFC0036 | RFC0044
+  rfc.author       | RFC0036 | S.D. Crocker
+   dt.author       | RFC0036 | 107476 | Steve Crocker
+RFC0037
+  rfc.title        | RFC0037 | Network Meeting Epilogue, etc
+  rfc.draft        | RFC0037 | None
+  rfc.date         | RFC0037 | March 1970
+  rfc.stream       | RFC0037 | Legacy
+  rfc.wg           | RFC0037 | None
+  rfc.area         | RFC0037 | None
+  rfc.publ_status  | RFC0037 | UNKNOWN
+  rfc.curr_status  | RFC0037 | UNKNOWN
+  rfc.april_fool   | RFC0037 | False
+  rfc.page_count   | RFC0037 | 5
+  rfc.author       | RFC0037 | S.D. Crocker
+   dt.author       | RFC0037 | 107476 | Steve Crocker
+RFC0038
+  rfc.title        | RFC0038 | Comments on Network Protocol from NWG/RFC #36
+  rfc.draft        | RFC0038 | None
+  rfc.date         | RFC0038 | March 1970
+  rfc.stream       | RFC0038 | Legacy
+  rfc.wg           | RFC0038 | None
+  rfc.area         | RFC0038 | None
+  rfc.publ_status  | RFC0038 | UNKNOWN
+  rfc.curr_status  | RFC0038 | UNKNOWN
+  rfc.april_fool   | RFC0038 | False
+  rfc.page_count   | RFC0038 | 1
+  rfc.author       | RFC0038 | S.M. Wolfe
+RFC0039
+  rfc.title        | RFC0039 | Comments on Protocol Re: NWG/RFC #36
+  rfc.draft        | RFC0039 | None
+  rfc.date         | RFC0039 | March 1970
+  rfc.stream       | RFC0039 | Legacy
+  rfc.wg           | RFC0039 | None
+  rfc.area         | RFC0039 | None
+  rfc.publ_status  | RFC0039 | UNKNOWN
+  rfc.curr_status  | RFC0039 | UNKNOWN
+  rfc.april_fool   | RFC0039 | False
+  rfc.page_count   | RFC0039 | 3
+  rfc.updates      | RFC0039 | RFC0036
+  rfc.author       | RFC0039 | E. Harslem
+  rfc.author       | RFC0039 | J.F. Heafner
+RFC0040
+  rfc.title        | RFC0040 | More Comments on the Forthcoming Protocol
+  rfc.draft        | RFC0040 | None
+  rfc.date         | RFC0040 | March 1970
+  rfc.stream       | RFC0040 | Legacy
+  rfc.wg           | RFC0040 | None
+  rfc.area         | RFC0040 | None
+  rfc.publ_status  | RFC0040 | UNKNOWN
+  rfc.curr_status  | RFC0040 | UNKNOWN
+  rfc.april_fool   | RFC0040 | False
+  rfc.page_count   | RFC0040 | 3
+  rfc.author       | RFC0040 | E. Harslem
+  rfc.author       | RFC0040 | J.F. Heafner
+RFC0041
+  rfc.title        | RFC0041 | IMP-IMP Teletype Communication
+  rfc.draft        | RFC0041 | None
+  rfc.date         | RFC0041 | March 1970
+  rfc.stream       | RFC0041 | Legacy
+  rfc.wg           | RFC0041 | None
+  rfc.area         | RFC0041 | None
+  rfc.publ_status  | RFC0041 | UNKNOWN
+  rfc.curr_status  | RFC0041 | UNKNOWN
+  rfc.april_fool   | RFC0041 | False
+  rfc.page_count   | RFC0041 | 1
+  rfc.author       | RFC0041 | J.T. Melvin
+RFC0042
+  rfc.title        | RFC0042 | Message Data Types
+  rfc.draft        | RFC0042 | None
+  rfc.date         | RFC0042 | March 1970
+  rfc.stream       | RFC0042 | Legacy
+  rfc.wg           | RFC0042 | None
+  rfc.area         | RFC0042 | None
+  rfc.publ_status  | RFC0042 | UNKNOWN
+  rfc.curr_status  | RFC0042 | UNKNOWN
+  rfc.april_fool   | RFC0042 | False
+  rfc.page_count   | RFC0042 | 3
+  rfc.author       | RFC0042 | E. Ancona
+RFC0043
+  rfc.title        | RFC0043 | Proposed Meeting
+  rfc.draft        | RFC0043 | None
+  rfc.date         | RFC0043 | April 1970
+  rfc.stream       | RFC0043 | Legacy
+  rfc.wg           | RFC0043 | None
+  rfc.area         | RFC0043 | None
+  rfc.publ_status  | RFC0043 | UNKNOWN
+  rfc.curr_status  | RFC0043 | UNKNOWN
+  rfc.april_fool   | RFC0043 | False
+  rfc.page_count   | RFC0043 | 2
+  rfc.author       | RFC0043 | A.G. Nemeth
+RFC0044
+  rfc.title        | RFC0044 | Comments on NWG/RFC 33 and 36
+  rfc.draft        | RFC0044 | None
+  rfc.date         | RFC0044 | April 1970
+  rfc.stream       | RFC0044 | Legacy
+  rfc.wg           | RFC0044 | None
+  rfc.area         | RFC0044 | None
+  rfc.publ_status  | RFC0044 | UNKNOWN
+  rfc.curr_status  | RFC0044 | UNKNOWN
+  rfc.april_fool   | RFC0044 | False
+  rfc.page_count   | RFC0044 | 3
+  rfc.updates      | RFC0044 | RFC0036
+  rfc.author       | RFC0044 | A. Shoshani
+  rfc.author       | RFC0044 | R. Long
+  rfc.author       | RFC0044 | A. Landsberg
+RFC0045
+  rfc.title        | RFC0045 | New Protocol is Coming
+  rfc.draft        | RFC0045 | None
+  rfc.date         | RFC0045 | April 1970
+  rfc.stream       | RFC0045 | Legacy
+  rfc.wg           | RFC0045 | None
+  rfc.area         | RFC0045 | None
+  rfc.publ_status  | RFC0045 | UNKNOWN
+  rfc.curr_status  | RFC0045 | UNKNOWN
+  rfc.april_fool   | RFC0045 | False
+  rfc.page_count   | RFC0045 | 1
+  rfc.author       | RFC0045 | J. Postel
+  rfc.author       | RFC0045 | S.D. Crocker
+   dt.author       | RFC0045 |    419 | Dr. Jon Postel
+   dt.author       | RFC0045 | 107476 | Steve Crocker
+RFC0046
+  rfc.title        | RFC0046 | ARPA Network protocol notes
+  rfc.draft        | RFC0046 | None
+  rfc.date         | RFC0046 | April 1970
+  rfc.stream       | RFC0046 | Legacy
+  rfc.wg           | RFC0046 | None
+  rfc.area         | RFC0046 | None
+  rfc.publ_status  | RFC0046 | UNKNOWN
+  rfc.curr_status  | RFC0046 | UNKNOWN
+  rfc.april_fool   | RFC0046 | False
+  rfc.page_count   | RFC0046 | 17
+  rfc.author       | RFC0046 | E. Meyer
+RFC0047
+  rfc.title        | RFC0047 | BBN's Comments on NWG/RFC #33
+  rfc.draft        | RFC0047 | None
+  rfc.date         | RFC0047 | April 1970
+  rfc.stream       | RFC0047 | Legacy
+  rfc.wg           | RFC0047 | None
+  rfc.area         | RFC0047 | None
+  rfc.publ_status  | RFC0047 | UNKNOWN
+  rfc.curr_status  | RFC0047 | UNKNOWN
+  rfc.april_fool   | RFC0047 | False
+  rfc.page_count   | RFC0047 | 4
+  rfc.updates      | RFC0047 | RFC0033
+  rfc.author       | RFC0047 | J. Postel
+  rfc.author       | RFC0047 | S. Crocker
+   dt.author       | RFC0047 |    419 | Dr. Jon Postel
+   dt.author       | RFC0047 | 107476 | Steve Crocker
+RFC0048
+  rfc.title        | RFC0048 | Possible protocol plateau
+  rfc.draft        | RFC0048 | None
+  rfc.date         | RFC0048 | April 1970
+  rfc.stream       | RFC0048 | Legacy
+  rfc.wg           | RFC0048 | None
+  rfc.area         | RFC0048 | None
+  rfc.publ_status  | RFC0048 | UNKNOWN
+  rfc.curr_status  | RFC0048 | UNKNOWN
+  rfc.april_fool   | RFC0048 | False
+  rfc.page_count   | RFC0048 | 18
+  rfc.author       | RFC0048 | J. Postel
+  rfc.author       | RFC0048 | S.D. Crocker
+   dt.author       | RFC0048 |    419 | Dr. Jon Postel
+   dt.author       | RFC0048 | 107476 | Steve Crocker
+RFC0049
+  rfc.title        | RFC0049 | Conversations with S. Crocker (UCLA)
+  rfc.draft        | RFC0049 | None
+  rfc.date         | RFC0049 | April 1970
+  rfc.stream       | RFC0049 | Legacy
+  rfc.wg           | RFC0049 | None
+  rfc.area         | RFC0049 | None
+  rfc.publ_status  | RFC0049 | UNKNOWN
+  rfc.curr_status  | RFC0049 | UNKNOWN
+  rfc.april_fool   | RFC0049 | False
+  rfc.page_count   | RFC0049 | 5
+  rfc.author       | RFC0049 | E. Meyer
+RFC0050
+  rfc.title        | RFC0050 | Comments on the Meyer Proposal
+  rfc.draft        | RFC0050 | None
+  rfc.date         | RFC0050 | April 1970
+  rfc.stream       | RFC0050 | Legacy
+  rfc.wg           | RFC0050 | None
+  rfc.area         | RFC0050 | None
+  rfc.publ_status  | RFC0050 | UNKNOWN
+  rfc.curr_status  | RFC0050 | UNKNOWN
+  rfc.april_fool   | RFC0050 | False
+  rfc.page_count   | RFC0050 | 2
+  rfc.author       | RFC0050 | E. Harslen
+  rfc.author       | RFC0050 | J. Heafner
+RFC0051
+  rfc.title        | RFC0051 | Proposal for a Network Interchange Language
+  rfc.draft        | RFC0051 | None
+  rfc.date         | RFC0051 | May 1970
+  rfc.stream       | RFC0051 | Legacy
+  rfc.wg           | RFC0051 | None
+  rfc.area         | RFC0051 | None
+  rfc.publ_status  | RFC0051 | UNKNOWN
+  rfc.curr_status  | RFC0051 | UNKNOWN
+  rfc.april_fool   | RFC0051 | False
+  rfc.page_count   | RFC0051 | 0
+  rfc.author       | RFC0051 | M. Elie
+RFC0052
+  rfc.title        | RFC0052 | Updated distribution list
+  rfc.draft        | RFC0052 | None
+  rfc.date         | RFC0052 | July 1970
+  rfc.stream       | RFC0052 | Legacy
+  rfc.wg           | RFC0052 | None
+  rfc.area         | RFC0052 | None
+  rfc.publ_status  | RFC0052 | UNKNOWN
+  rfc.curr_status  | RFC0052 | UNKNOWN
+  rfc.april_fool   | RFC0052 | False
+  rfc.page_count   | RFC0052 | 3
+  rfc.updated-by   | RFC0052 | RFC0069
+  rfc.author       | RFC0052 | J. Postel
+  rfc.author       | RFC0052 | S.D. Crocker
+   dt.author       | RFC0052 |    419 | Dr. Jon Postel
+   dt.author       | RFC0052 | 107476 | Steve Crocker
+RFC0053
+  rfc.title        | RFC0053 | Official protocol mechanism
+  rfc.draft        | RFC0053 | None
+  rfc.date         | RFC0053 | June 1970
+  rfc.stream       | RFC0053 | Legacy
+  rfc.wg           | RFC0053 | None
+  rfc.area         | RFC0053 | None
+  rfc.publ_status  | RFC0053 | UNKNOWN
+  rfc.curr_status  | RFC0053 | UNKNOWN
+  rfc.april_fool   | RFC0053 | False
+  rfc.page_count   | RFC0053 | 1
+  rfc.author       | RFC0053 | S.D. Crocker
+   dt.author       | RFC0053 | 107476 | Steve Crocker

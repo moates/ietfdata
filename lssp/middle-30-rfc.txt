@@ -1,0 +1,398 @@
+RFC0539
+  rfc.title        | RFC0539 | Thoughts on the mail protocol proposed in RFC 524
+  rfc.draft        | RFC0539 | None
+  rfc.date         | RFC0539 | July 1973
+  rfc.stream       | RFC0539 | Legacy
+  rfc.wg           | RFC0539 | None
+  rfc.area         | RFC0539 | None
+  rfc.publ_status  | RFC0539 | UNKNOWN
+  rfc.curr_status  | RFC0539 | UNKNOWN
+  rfc.april_fool   | RFC0539 | False
+  rfc.page_count   | RFC0539 | 3
+  rfc.author       | RFC0539 | D. Crocker
+  rfc.author       | RFC0539 | J. Postel
+   dt.author       | RFC0539 | 100927 | Dave Crocker
+   dt.author       | RFC0539 |    419 | Dr. Jon Postel
+RFC0542
+  rfc.title        | RFC0542 | File Transfer Protocol
+  rfc.draft        | RFC0542 | None
+  rfc.keyword      | RFC0542 | FTP
+  rfc.date         | RFC0542 | August 1973
+  rfc.stream       | RFC0542 | Legacy
+  rfc.wg           | RFC0542 | None
+  rfc.area         | RFC0542 | None
+  rfc.publ_status  | RFC0542 | UNKNOWN
+  rfc.curr_status  | RFC0542 | UNKNOWN
+  rfc.april_fool   | RFC0542 | False
+  rfc.page_count   | RFC0542 | 40
+  rfc.updated-by   | RFC0542 | RFC0614
+  rfc.updated-by   | RFC0542 | RFC0640
+  rfc.obsoletes    | RFC0542 | RFC0354
+  rfc.obsoleted-by | RFC0542 | RFC0765
+  rfc.author       | RFC0542 | N. Neigus
+RFC0543
+  rfc.title        | RFC0543 | Network journal submission and delivery
+  rfc.draft        | RFC0543 | None
+  rfc.date         | RFC0543 | July 1973
+  rfc.stream       | RFC0543 | Legacy
+  rfc.wg           | RFC0543 | None
+  rfc.area         | RFC0543 | None
+  rfc.publ_status  | RFC0543 | UNKNOWN
+  rfc.curr_status  | RFC0543 | UNKNOWN
+  rfc.april_fool   | RFC0543 | False
+  rfc.page_count   | RFC0543 | 8
+  rfc.author       | RFC0543 | N.D. Meyer
+RFC0544
+  rfc.title        | RFC0544 | Locating on-line documentation at SRI-ARC
+  rfc.draft        | RFC0544 | None
+  rfc.date         | RFC0544 | July 1973
+  rfc.stream       | RFC0544 | Legacy
+  rfc.wg           | RFC0544 | None
+  rfc.area         | RFC0544 | None
+  rfc.publ_status  | RFC0544 | UNKNOWN
+  rfc.curr_status  | RFC0544 | UNKNOWN
+  rfc.april_fool   | RFC0544 | False
+  rfc.page_count   | RFC0544 | 1
+  rfc.author       | RFC0544 | N.D. Meyer
+  rfc.author       | RFC0544 | K. Kelley
+RFC0545
+  rfc.title        | RFC0545 | Of what quality be the UCSB resources evaluators?
+  rfc.draft        | RFC0545 | None
+  rfc.date         | RFC0545 | July 1973
+  rfc.stream       | RFC0545 | Legacy
+  rfc.wg           | RFC0545 | None
+  rfc.area         | RFC0545 | None
+  rfc.publ_status  | RFC0545 | UNKNOWN
+  rfc.curr_status  | RFC0545 | UNKNOWN
+  rfc.april_fool   | RFC0545 | False
+  rfc.page_count   | RFC0545 | 2
+  rfc.author       | RFC0545 | J.R. Pickens
+   dt.author       | RFC0545 |    412 | John Pickens
+RFC0546
+  rfc.title        | RFC0546 | Tenex load averages for July 1973
+  rfc.draft        | RFC0546 | None
+  rfc.date         | RFC0546 | August 1973
+  rfc.stream       | RFC0546 | Legacy
+  rfc.wg           | RFC0546 | None
+  rfc.area         | RFC0546 | None
+  rfc.publ_status  | RFC0546 | UNKNOWN
+  rfc.curr_status  | RFC0546 | UNKNOWN
+  rfc.april_fool   | RFC0546 | False
+  rfc.page_count   | RFC0546 | 4
+  rfc.author       | RFC0546 | R. Thomas
+   dt.author       | RFC0546 | 122235 | Reji Thomas
+RFC0547
+  rfc.title        | RFC0547 | Change to the Very Distant Host specification
+  rfc.draft        | RFC0547 | None
+  rfc.date         | RFC0547 | August 1973
+  rfc.stream       | RFC0547 | Legacy
+  rfc.wg           | RFC0547 | None
+  rfc.area         | RFC0547 | None
+  rfc.publ_status  | RFC0547 | UNKNOWN
+  rfc.curr_status  | RFC0547 | UNKNOWN
+  rfc.april_fool   | RFC0547 | False
+  rfc.page_count   | RFC0547 | 3
+  rfc.author       | RFC0547 | D.C. Walden
+RFC0548
+  rfc.title        | RFC0548 | Hosts using the IMP Going Down message
+  rfc.draft        | RFC0548 | None
+  rfc.date         | RFC0548 | August 1973
+  rfc.stream       | RFC0548 | Legacy
+  rfc.wg           | RFC0548 | None
+  rfc.area         | RFC0548 | None
+  rfc.publ_status  | RFC0548 | UNKNOWN
+  rfc.curr_status  | RFC0548 | UNKNOWN
+  rfc.april_fool   | RFC0548 | False
+  rfc.page_count   | RFC0548 | 1
+  rfc.author       | RFC0548 | D.C. Walden
+RFC0549
+  rfc.title        | RFC0549 | Minutes of Network Graphics Group meeting, 15-17 July 1973
+  rfc.draft        | RFC0549 | None
+  rfc.date         | RFC0549 | July 1973
+  rfc.stream       | RFC0549 | Legacy
+  rfc.wg           | RFC0549 | None
+  rfc.area         | RFC0549 | None
+  rfc.publ_status  | RFC0549 | UNKNOWN
+  rfc.curr_status  | RFC0549 | UNKNOWN
+  rfc.april_fool   | RFC0549 | False
+  rfc.page_count   | RFC0549 | 12
+  rfc.author       | RFC0549 | J.C. Michener
+   dt.author       | RFC0549 | 101362 | J. Michener
+RFC0550
+  rfc.title        | RFC0550 | NIC NCP experiment
+  rfc.draft        | RFC0550 | None
+  rfc.date         | RFC0550 | August 1973
+  rfc.stream       | RFC0550 | Legacy
+  rfc.wg           | RFC0550 | None
+  rfc.area         | RFC0550 | None
+  rfc.publ_status  | RFC0550 | UNKNOWN
+  rfc.curr_status  | RFC0550 | UNKNOWN
+  rfc.april_fool   | RFC0550 | False
+  rfc.page_count   | RFC0550 | 2
+  rfc.author       | RFC0550 | L.P. Deutsch
+   dt.author       | RFC0550 |  19555 | L. Peter Deutsch
+RFC0551
+  rfc.title        | RFC0551 | NYU, ANL, and LBL Joining the Net
+  rfc.draft        | RFC0551 | None
+  rfc.date         | RFC0551 | August 1973
+  rfc.stream       | RFC0551 | Legacy
+  rfc.wg           | RFC0551 | None
+  rfc.area         | RFC0551 | None
+  rfc.publ_status  | RFC0551 | UNKNOWN
+  rfc.curr_status  | RFC0551 | UNKNOWN
+  rfc.april_fool   | RFC0551 | False
+  rfc.page_count   | RFC0551 | 2
+  rfc.author       | RFC0551 | Y. Feinroth
+  rfc.author       | RFC0551 | R. Fink
+   dt.author       | RFC0551 |    833 | Robert L. Fink
+RFC0552
+  rfc.title        | RFC0552 | Single access to standard protocols
+  rfc.draft        | RFC0552 | None
+  rfc.date         | RFC0552 | July 1973
+  rfc.stream       | RFC0552 | Legacy
+  rfc.wg           | RFC0552 | None
+  rfc.area         | RFC0552 | None
+  rfc.publ_status  | RFC0552 | UNKNOWN
+  rfc.curr_status  | RFC0552 | UNKNOWN
+  rfc.april_fool   | RFC0552 | False
+  rfc.page_count   | RFC0552 | 1
+  rfc.author       | RFC0552 | A.D. Owen
+   dt.author       | RFC0552 |  10680 | A. D. (Buz) Owen
+RFC0553
+  rfc.title        | RFC0553 | Draft design for a text/graphics protocol
+  rfc.draft        | RFC0553 | None
+  rfc.date         | RFC0553 | July 1973
+  rfc.stream       | RFC0553 | Legacy
+  rfc.wg           | RFC0553 | None
+  rfc.area         | RFC0553 | None
+  rfc.publ_status  | RFC0553 | UNKNOWN
+  rfc.curr_status  | RFC0553 | UNKNOWN
+  rfc.april_fool   | RFC0553 | False
+  rfc.page_count   | RFC0553 | 19
+  rfc.author       | RFC0553 | C.H. Irby
+  rfc.author       | RFC0553 | K. Victor
+RFC0555
+  rfc.title        | RFC0555 | Responses to critiques of the proposed mail protocol
+  rfc.draft        | RFC0555 | None
+  rfc.date         | RFC0555 | July 1973
+  rfc.stream       | RFC0555 | Legacy
+  rfc.wg           | RFC0555 | None
+  rfc.area         | RFC0555 | None
+  rfc.publ_status  | RFC0555 | UNKNOWN
+  rfc.curr_status  | RFC0555 | UNKNOWN
+  rfc.april_fool   | RFC0555 | False
+  rfc.page_count   | RFC0555 | 11
+  rfc.author       | RFC0555 | J.E. White
+RFC0556
+  rfc.title        | RFC0556 | Traffic Statistics (July 1973)
+  rfc.draft        | RFC0556 | None
+  rfc.date         | RFC0556 | August 1973
+  rfc.stream       | RFC0556 | Legacy
+  rfc.wg           | RFC0556 | None
+  rfc.area         | RFC0556 | None
+  rfc.publ_status  | RFC0556 | UNKNOWN
+  rfc.curr_status  | RFC0556 | UNKNOWN
+  rfc.april_fool   | RFC0556 | False
+  rfc.page_count   | RFC0556 | 4
+  rfc.updates      | RFC0556 | RFC0538
+  rfc.author       | RFC0556 | A.M. McKenzie
+   dt.author       | RFC0556 |     53 | Alexander McKenzie
+RFC0557
+  rfc.title        | RFC0557 | REVELATIONS IN NETWORK HOST MEASUREMENTS
+  rfc.draft        | RFC0557 | None
+  rfc.date         | RFC0557 | August 1973
+  rfc.stream       | RFC0557 | Legacy
+  rfc.wg           | RFC0557 | None
+  rfc.area         | RFC0557 | None
+  rfc.publ_status  | RFC0557 | UNKNOWN
+  rfc.curr_status  | RFC0557 | UNKNOWN
+  rfc.april_fool   | RFC0557 | False
+  rfc.page_count   | RFC0557 | 2
+  rfc.author       | RFC0557 | B.D. Wessler
+RFC0559
+  rfc.title        | RFC0559 | Comments on The New Telnet Protocol and its Implementation
+  rfc.draft        | RFC0559 | None
+  rfc.date         | RFC0559 | August 1973
+  rfc.stream       | RFC0559 | Legacy
+  rfc.wg           | RFC0559 | None
+  rfc.area         | RFC0559 | None
+  rfc.publ_status  | RFC0559 | UNKNOWN
+  rfc.curr_status  | RFC0559 | UNKNOWN
+  rfc.april_fool   | RFC0559 | False
+  rfc.page_count   | RFC0559 | 5
+  rfc.author       | RFC0559 | A.K. Bushan
+RFC0560
+  rfc.title        | RFC0560 | Remote Controlled Transmission and Echoing Telnet option
+  rfc.draft        | RFC0560 | None
+  rfc.date         | RFC0560 | August 1973
+  rfc.stream       | RFC0560 | Legacy
+  rfc.wg           | RFC0560 | None
+  rfc.area         | RFC0560 | None
+  rfc.publ_status  | RFC0560 | UNKNOWN
+  rfc.curr_status  | RFC0560 | UNKNOWN
+  rfc.april_fool   | RFC0560 | False
+  rfc.page_count   | RFC0560 | 12
+  rfc.updated-by   | RFC0560 | RFC0581
+  rfc.author       | RFC0560 | D. Crocker
+  rfc.author       | RFC0560 | J. Postel
+   dt.author       | RFC0560 | 100927 | Dave Crocker
+   dt.author       | RFC0560 |    419 | Dr. Jon Postel
+RFC0561
+  rfc.title        | RFC0561 | Standardizing Network Mail Headers
+  rfc.draft        | RFC0561 | None
+  rfc.date         | RFC0561 | September 1973
+  rfc.stream       | RFC0561 | Legacy
+  rfc.wg           | RFC0561 | None
+  rfc.area         | RFC0561 | None
+  rfc.publ_status  | RFC0561 | UNKNOWN
+  rfc.curr_status  | RFC0561 | UNKNOWN
+  rfc.april_fool   | RFC0561 | False
+  rfc.page_count   | RFC0561 | 3
+  rfc.updated-by   | RFC0561 | RFC0680
+  rfc.author       | RFC0561 | A.K. Bhushan
+  rfc.author       | RFC0561 | K.T. Pogran
+  rfc.author       | RFC0561 | R.S. Tomlinson
+  rfc.author       | RFC0561 | J.E. White
+RFC0562
+  rfc.title        | RFC0562 | Modifications to the TELNET Specification
+  rfc.draft        | RFC0562 | None
+  rfc.date         | RFC0562 | August 1973
+  rfc.stream       | RFC0562 | Legacy
+  rfc.wg           | RFC0562 | None
+  rfc.area         | RFC0562 | None
+  rfc.publ_status  | RFC0562 | UNKNOWN
+  rfc.curr_status  | RFC0562 | UNKNOWN
+  rfc.april_fool   | RFC0562 | False
+  rfc.page_count   | RFC0562 | 2
+  rfc.updates      | RFC0562 | RFC0495
+  rfc.author       | RFC0562 | A.M. McKenzie
+   dt.author       | RFC0562 |     53 | Alexander McKenzie
+RFC0563
+  rfc.title        | RFC0563 | Comments on the RCTE Telnet option
+  rfc.draft        | RFC0563 | None
+  rfc.date         | RFC0563 | August 1973
+  rfc.stream       | RFC0563 | Legacy
+  rfc.wg           | RFC0563 | None
+  rfc.area         | RFC0563 | None
+  rfc.publ_status  | RFC0563 | UNKNOWN
+  rfc.curr_status  | RFC0563 | UNKNOWN
+  rfc.april_fool   | RFC0563 | False
+  rfc.page_count   | RFC0563 | 5
+  rfc.author       | RFC0563 | J. Davidson
+RFC0565
+  rfc.title        | RFC0565 | Storing network survey data at the datacomputer
+  rfc.draft        | RFC0565 | None
+  rfc.date         | RFC0565 | August 1973
+  rfc.stream       | RFC0565 | Legacy
+  rfc.wg           | RFC0565 | None
+  rfc.area         | RFC0565 | None
+  rfc.publ_status  | RFC0565 | UNKNOWN
+  rfc.curr_status  | RFC0565 | UNKNOWN
+  rfc.april_fool   | RFC0565 | False
+  rfc.page_count   | RFC0565 | 5
+  rfc.author       | RFC0565 | D. Cantor
+RFC0566
+  rfc.title        | RFC0566 | Traffic statistics (August 1973)
+  rfc.draft        | RFC0566 | None
+  rfc.date         | RFC0566 | September 1973
+  rfc.stream       | RFC0566 | Legacy
+  rfc.wg           | RFC0566 | None
+  rfc.area         | RFC0566 | None
+  rfc.publ_status  | RFC0566 | UNKNOWN
+  rfc.curr_status  | RFC0566 | UNKNOWN
+  rfc.april_fool   | RFC0566 | False
+  rfc.page_count   | RFC0566 | 4
+  rfc.updated-by   | RFC0566 | RFC0579
+  rfc.author       | RFC0566 | A.M. McKenzie
+   dt.author       | RFC0566 |     53 | Alexander McKenzie
+RFC0567
+  rfc.title        | RFC0567 | Cross Country Network Bandwidth
+  rfc.draft        | RFC0567 | None
+  rfc.date         | RFC0567 | September 1973
+  rfc.stream       | RFC0567 | Legacy
+  rfc.wg           | RFC0567 | None
+  rfc.area         | RFC0567 | None
+  rfc.publ_status  | RFC0567 | UNKNOWN
+  rfc.curr_status  | RFC0567 | UNKNOWN
+  rfc.april_fool   | RFC0567 | False
+  rfc.page_count   | RFC0567 | 1
+  rfc.updated-by   | RFC0567 | RFC0568
+  rfc.author       | RFC0567 | L.P. Deutsch
+   dt.author       | RFC0567 |  19555 | L. Peter Deutsch
+RFC0568
+  rfc.title        | RFC0568 | Response to RFC 567 - cross country network bandwidth
+  rfc.draft        | RFC0568 | None
+  rfc.date         | RFC0568 | September 1973
+  rfc.stream       | RFC0568 | Legacy
+  rfc.wg           | RFC0568 | None
+  rfc.area         | RFC0568 | None
+  rfc.publ_status  | RFC0568 | UNKNOWN
+  rfc.curr_status  | RFC0568 | UNKNOWN
+  rfc.april_fool   | RFC0568 | False
+  rfc.page_count   | RFC0568 | 3
+  rfc.updates      | RFC0568 | RFC0567
+  rfc.author       | RFC0568 | J.M. McQuillan
+RFC0569
+  rfc.title        | RFC0569 | NETED: A Common Editor for the ARPA Network
+  rfc.draft        | RFC0569 | None
+  rfc.keyword      | RFC0569 | NETED
+  rfc.date         | RFC0569 | October 1973
+  rfc.stream       | RFC0569 | Legacy
+  rfc.wg           | RFC0569 | None
+  rfc.area         | RFC0569 | None
+  rfc.publ_status  | RFC0569 | HISTORIC
+  rfc.curr_status  | RFC0569 | HISTORIC
+  rfc.april_fool   | RFC0569 | False
+  rfc.page_count   | RFC0569 | 6
+  rfc.author       | RFC0569 | M.A. Padlipsky
+   dt.author       | RFC0569 |    395 | Michael A. Padlipsky
+RFC0570
+  rfc.title        | RFC0570 | Experimental input mapping between NVT ASCII and UCSB On Line System
+  rfc.draft        | RFC0570 | None
+  rfc.date         | RFC0570 | October 1973
+  rfc.stream       | RFC0570 | Legacy
+  rfc.wg           | RFC0570 | None
+  rfc.area         | RFC0570 | None
+  rfc.publ_status  | RFC0570 | UNKNOWN
+  rfc.curr_status  | RFC0570 | UNKNOWN
+  rfc.april_fool   | RFC0570 | False
+  rfc.page_count   | RFC0570 | 1
+  rfc.author       | RFC0570 | J.R. Pickens
+   dt.author       | RFC0570 |    412 | John Pickens
+RFC0571
+  rfc.title        | RFC0571 | TENEX FTP PROBLEM
+  rfc.draft        | RFC0571 | None
+  rfc.date         | RFC0571 | November 1973
+  rfc.stream       | RFC0571 | Legacy
+  rfc.wg           | RFC0571 | None
+  rfc.area         | RFC0571 | None
+  rfc.publ_status  | RFC0571 | UNKNOWN
+  rfc.curr_status  | RFC0571 | UNKNOWN
+  rfc.april_fool   | RFC0571 | False
+  rfc.page_count   | RFC0571 | 1
+  rfc.author       | RFC0571 | R. Braden
+   dt.author       | RFC0571 |   5436 | Robert T. Braden
+RFC0573
+  rfc.title        | RFC0573 | DATA AND FILE TRANSFER - SOME MEASUREMENT RESULTS
+  rfc.draft        | RFC0573 | None
+  rfc.date         | RFC0573 | September 1973
+  rfc.stream       | RFC0573 | Legacy
+  rfc.wg           | RFC0573 | None
+  rfc.area         | RFC0573 | None
+  rfc.publ_status  | RFC0573 | UNKNOWN
+  rfc.curr_status  | RFC0573 | UNKNOWN
+  rfc.april_fool   | RFC0573 | False
+  rfc.page_count   | RFC0573 | 8
+  rfc.author       | RFC0573 | A. Bhushan
+RFC0574
+  rfc.title        | RFC0574 | Announcement of a Mail Facility at UCSB
+  rfc.draft        | RFC0574 | None
+  rfc.date         | RFC0574 | September 1973
+  rfc.stream       | RFC0574 | Legacy
+  rfc.wg           | RFC0574 | None
+  rfc.area         | RFC0574 | None
+  rfc.publ_status  | RFC0574 | UNKNOWN
+  rfc.curr_status  | RFC0574 | UNKNOWN
+  rfc.april_fool   | RFC0574 | False
+  rfc.page_count   | RFC0574 | 1
+  rfc.author       | RFC0574 | M. Krilanovich
